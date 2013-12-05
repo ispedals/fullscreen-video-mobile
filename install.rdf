@@ -9,6 +9,7 @@
 		<em:bootstrap>true</em:bootstrap>
 		<em:description>Allows makeing the current video fullscreen</em:description>
 		<em:creator>ispedals</em:creator>
+		<em:homepageURL>https://github.com/ispedals/fullscreen-video-mobile</em:homepageURL>
 
 		<!-- Mobile -->
 		<em:targetApplication>
